@@ -36,3 +36,5 @@ static/style.css
 for running the server on terminal 
 
 uvicorn main:app --reload --host 0.0.0.0 --port 8000                                              127.0.0.1:8000
+
+nltk
